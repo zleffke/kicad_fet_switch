@@ -25,10 +25,10 @@ F 3 "https://www.onsemi.com/pub/Collateral/FQP27P06-D.PDF" H 5000 3700 50  0001 
 	0    1    -1   0   
 $EndComp
 $Comp
-L Device:R_US R2
+L Device:R_US R1
 U 1 1 5ED33A03
 P 4250 3800
-F 0 "R2" H 4318 3846 50  0000 L CNN
+F 0 "R1" H 4318 3846 50  0000 L CNN
 F 1 "1k" H 4318 3755 50  0000 L CNN
 F 2 "digikey-footprints:0805" V 4290 3790 50  0001 C CNN
 F 3 "~" H 4250 3800 50  0001 C CNN
@@ -36,10 +36,10 @@ F 3 "~" H 4250 3800 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:R_US R5
+L Device:R_US R2
 U 1 1 5ED351C0
 P 4250 4200
-F 0 "R5" H 4318 4246 50  0000 L CNN
+F 0 "R2" H 4318 4246 50  0000 L CNN
 F 1 "6k" H 4318 4155 50  0000 L CNN
 F 2 "digikey-footprints:0805" V 4290 4190 50  0001 C CNN
 F 3 "~" H 4250 4200 50  0001 C CNN
@@ -47,10 +47,10 @@ F 3 "~" H 4250 4200 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:R_US R7
+L Device:R_US R3
 U 1 1 5ED35789
 P 4250 4600
-F 0 "R7" H 4318 4646 50  0000 L CNN
+F 0 "R3" H 4318 4646 50  0000 L CNN
 F 1 "2k" H 4318 4555 50  0000 L CNN
 F 2 "digikey-footprints:0805" V 4290 4590 50  0001 C CNN
 F 3 "~" H 4250 4600 50  0001 C CNN
@@ -58,10 +58,10 @@ F 3 "~" H 4250 4600 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:R_US R6
+L Device:R_US R7
 U 1 1 5ED35D74
 P 3500 4600
-F 0 "R6" H 3568 4646 50  0000 L CNN
+F 0 "R7" H 3568 4646 50  0000 L CNN
 F 1 "2.5k" H 3568 4555 50  0000 L CNN
 F 2 "digikey-footprints:0805" V 3540 4590 50  0001 C CNN
 F 3 "~" H 3500 4600 50  0001 C CNN
@@ -69,10 +69,10 @@ F 3 "~" H 3500 4600 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:R_US R4
+L Device:R_US R6
 U 1 1 5ED36A92
 P 3500 4200
-F 0 "R4" H 3568 4246 50  0000 L CNN
+F 0 "R6" H 3568 4246 50  0000 L CNN
 F 1 "8k" H 3568 4155 50  0000 L CNN
 F 2 "digikey-footprints:0805" V 3540 4190 50  0001 C CNN
 F 3 "~" H 3500 4200 50  0001 C CNN
@@ -111,10 +111,10 @@ F 12 "Active" H 5100 5600 60  0001 L CNN "Status"
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:R_US R3
+L Device:R_US R5
 U 1 1 5ED3BCD8
 P 5000 4050
-F 0 "R3" H 5068 4096 50  0000 L CNN
+F 0 "R5" H 5068 4096 50  0000 L CNN
 F 1 "500" H 5068 4005 50  0000 L CNN
 F 2 "digikey-footprints:0805" V 5040 4040 50  0001 C CNN
 F 3 "~" H 5000 4050 50  0001 C CNN
@@ -122,10 +122,10 @@ F 3 "~" H 5000 4050 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:R_US R1
+L Device:R_US R4
 U 1 1 5ED3C6E3
 P 4600 3750
-F 0 "R1" H 4668 3796 50  0000 L CNN
+F 0 "R4" H 4668 3796 50  0000 L CNN
 F 1 "10k" H 4668 3705 50  0000 L CNN
 F 2 "digikey-footprints:0805" V 4640 3740 50  0001 C CNN
 F 3 "~" H 4600 3750 50  0001 C CNN
